@@ -13,3 +13,5 @@ class TweetService {
     return tweet;
   }
 }
+
+module.exports = TweetService;
